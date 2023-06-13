@@ -99,12 +99,18 @@ const Content = () => {
                                         </div>
                                         <div className="eed77b0fbd"
                                              data-testid="secondary-banner-banners-carousel-test-id">
-                                            <div role="region" className="d4f3be4ddb c20066415a dba326cf56">
+                                            <div role="region" className="d4f3be4ddb c20066415a dba326cf56" style={{
+                                                padding: "20px"
+                                            }}>
                                                 <ul className="fff8c74b55 cb9e386163" id=":R16:"
                                                     aria-atomic="false">
                                                     <li className="d5fc932504 ebb6d69bfc">
                                                         <div>
-                                                            <div data-testid="secondary-banner-container"
+                                                            <div
+                                                                style={{
+                                                                    padding: "20px"
+                                                                }}
+                                                                data-testid="secondary-banner-container"
                                                                  className="a826ba81c4 fd3e860f04 afd256fc79 d08f526e0d ed11e24d01 ef9845d4b3 a30d591987 e61f37fbcf"
                                                                  >
                                                                 <div className="a826ba81c4 c41f5609d3"
@@ -1552,7 +1558,9 @@ const Content = () => {
                                                  className="d4f3be4ddb cbe6ba4fde a201aee5ff">
                                                 <ul className="fff8c74b55 cb9e386163" id=":r9:"
                                                     aria-atomic="false">
-                                                    <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
+                                                    <li className="d5fc932504 ebb6d69bfc" style={{
+                                                        height: "100%"
+                                                    }}><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
                                                                                              href="#"
                                                                                              className="fc63351294 b878730b30">
