@@ -124,7 +124,6 @@ const Content = () => {
                                                                         <div className="ac5f0733f6"><a
                                                                             aria-label="Find a stay"
                                                                             data-testid="secondary-banner-call-to-action"
-                                                                            href="https://www.booking.com/extended-stays/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
                                                                             className="fc63351294 a822bdf511 d4b6b7a9e7 f7db01295e c334e6f658 f4605622ad b80809d745"><span
                                                                             className="e57ffa4eb5">Find a stay</span></a>
                                                                         </div>
@@ -175,7 +174,6 @@ const Content = () => {
                                                                         <div className="ac5f0733f6"><a
                                                                             aria-label="Find Getaway Deals"
                                                                             data-testid="secondary-banner-call-to-action"
-                                                                            href="https://www.booking.com/dealspage.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;campaign_id=getaway"
                                                                             className="fc63351294 a822bdf511 d4b6b7a9e7 f7db01295e c334e6f658 f4605622ad b80809d745"><span
                                                                             className="e57ffa4eb5">Find Getaway Deals</span></a>
                                                                         </div>
@@ -252,19 +250,16 @@ const Content = () => {
                                                         aria-atomic="false">
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-1997013&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
-                                                                     >
+                                                                     >   <img className="c3194e6c89 e5eb7fb6cb"
+                                                                              src={toAbsoluteUrl(`/assets/img/abuja.jpg`)}
+                                                                              role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src={toAbsoluteUrl(`../../public/assets/img/abuja.jpg`)}
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -281,18 +276,18 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2011499&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/lagos.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
                                                                             <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/city/170x136/815261.jpg?k=96c6465292cad5f9afffb2925a9f76b126d4675423300a6e63917f1fcf459a19&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
+
                                                                             </picture>
                                                                         </div>
                                                                     </div>
@@ -310,19 +305,17 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2017355&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/lagos-2.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://q-xx.bstatic.com/xdata/images/city/170x136/684500.jpg?k=df54bcea224564a0a00497a2076d5338316a0b56692498eddb3c02c9a6cdde64&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -339,19 +332,16 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2010458&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/ibadan.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/city/170x136/808081.jpg?k=741722d4e7757b648faf551d5566d2259d3a0f31824f5893aab9f37f43fc7232&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -368,19 +358,17 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=900054624&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/lekki.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/city/170x136/661041.jpg?k=9b623dbbbf3f001248b38d9e75f2a71f985b44436b2fd871d2e6153c3d76a9be&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -397,19 +385,18 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2014610&amp;dest_type=city&amp;group_adults=null&amp;req_adults=null&amp;no_rooms=null&amp;group_children=null&amp;req_children=null"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/kano.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/city/170x136/853006.jpg?k=49f75610fb56878eb04a87432a9fa76f3b3e3d68383996d46c7dbbf53c5467c2&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -506,10 +493,9 @@ const Content = () => {
                                                                 className="a1b3f50dcd be36d14cea b2fe1a41c3 db7f07f643">
                                                                 <div className="e1f827110f">Abuja</div>
                                                                 <picture className="e4e8d3238b fb913c0ee7"
-                                                                         ><img
-                                                                    className="c3194e6c89 e5eb7fb6cb c1874b9d0e"
-                                                                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAY1BMVEX///8AAAAAAAAAAAAAAAD////t7e2NwqSGvp58uZV2tpFws41ssYljrIFTo3VMnnBInGxFnGlAl2Y8k2E3k14xjVkpjFQjiU4ohlAfhksZhEcXg0Udf0cSgEEYfUMQfz8SeD0YtJW+AAAABXRSTlMAESIzRJTdRHwAAACJSURBVBgZdcFBbgJBEATBrBxrj/j/74NHICEzqJu+eTdCLsgFuSA5hfm9tZ9x+4rZz8Z4NiLJKoxVApJYGJYEiSmMFIPEFEaKQZJVGKskSFyFsYpBOBrjaEFWGiNfyCmR2Bi2IAsLw8JCDP9ERF6F8SqIcLSMo4H7/mjv8Wj37X7/nXhv2aeQCx+IvV0x54NiPAAAAABJRU5ErkJggg=="
-                                                                    role="presentation" loading="lazy"/></picture>
+                                                                         >  <img className="c3194e6c89 e5eb7fb6cb"
+                                                                                 src={toAbsoluteUrl(`../../public/assets/img/abuja.jpg`)}
+                                                                                 role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/></picture>
                                                             </div>
                                                         </div>
                                                         <picture className="e4e8d3238b"><img
@@ -522,7 +508,7 @@ const Content = () => {
                                         </a></div>
                                         <div className="f395e522bd af0c2122fa"
                                              data-testid="destination-postcards-secondrow"><a
-                                            href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2011499&amp;dest_type=city&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=0&amp;req_children=0"
+                                            href="#"
                                             className="fc63351294 d412802652">
                                             <div
                                                 className="d57f52f47d">
@@ -575,7 +561,7 @@ const Content = () => {
                                                 </div>
                                             </div>
                                         </a><a
-                                            href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-1456928&amp;dest_type=city&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=0&amp;req_children=0"
+                                            href="#"
                                             className="fc63351294 d412802652">
                                             <div
 
@@ -632,18 +618,24 @@ const Content = () => {
                                                         aria-atomic="false">
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/hotel/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/hotels.jpeg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" style={{
+                                                                             display:"block",
+                                                                        width: "100%",
+                                                                        height: "100%",
+                                                                        objectFit:"cover"
+                                                                    }}/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
                                                                             <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/xphoto/263x210/57584488.jpeg?k=d8d4706fc72ee789d870eb6b05c0e546fd4ad85d72a3af3e30fb80ca72f0ba57&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
+
                                                                             </picture>
                                                                         </div>
                                                                     </div>
@@ -661,19 +653,23 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/apartments/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/hotels.jpeg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" style={{
+                                                                        display:"block",
+                                                                        width: "100%",
+                                                                        height: "100%",
+                                                                        objectFit:"cover"
+                                                                    }}/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://q-xx.bstatic.com/xdata/images/hotel/263x210/119467716.jpeg?k=f3c2c6271ab71513e044e48dfde378fcd6bb80cb893e39b9b78b33a60c0131c9&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -690,19 +686,23 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/resorts/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/resorts.jpeg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" style={{
+                                                                        display:"block",
+                                                                        width: "100%",
+                                                                        height: "100%",
+                                                                        objectFit:"cover"
+                                                                    }}/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://r-xx.bstatic.com/xdata/images/xphoto/263x210/45450084.jpeg?k=f8c2954e867a1dd4b479909c49528531dcfb676d8fbc0d60f51d7b51bb32d1d9&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -719,18 +719,24 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/villas/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/villas.jpeg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" style={{
+                                                                        display:"block",
+                                                                        width: "100%",
+                                                                        height: "100%",
+                                                                        objectFit:"cover"
+                                                                    }}/>
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
                                                                             <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://q-xx.bstatic.com/xdata/images/hotel/263x210/100235855.jpeg?k=5b6e6cff16cfd290e953768d63ee15f633b56348238a705c45759aa3a81ba82b&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
+
                                                                             </picture>
                                                                         </div>
                                                                     </div>
@@ -748,7 +754,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/chalet/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -777,7 +783,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/cottages/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -806,7 +812,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/glamping/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -835,7 +841,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/aparthotels/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -865,7 +871,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/holiday-homes/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -895,7 +901,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/guest-house/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -925,7 +931,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/hostels/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -954,7 +960,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/motels/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -983,7 +989,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/bed-and-breakfast/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1012,7 +1018,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/ryokans/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1041,7 +1047,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/riad/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1070,7 +1076,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/holiday-parks/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1100,7 +1106,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/homestay/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1129,7 +1135,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/campings/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1158,7 +1164,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/country-houses/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1188,7 +1194,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/farm-holidays/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1218,7 +1224,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/boats/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1247,7 +1253,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/camp/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1277,7 +1283,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/self-catering/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1307,7 +1313,7 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target=""
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/tiny-house/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
@@ -1439,18 +1445,19 @@ const Content = () => {
                                                         aria-atomic="false">
                                                         <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2011499&amp;dest_type=city&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=null&amp;req_children=null"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/lagos.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" />
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
                                                                             <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://cf.bstatic.com/xdata/images/xphoto/300x240/140018401.jpg?k=aa5b9632341803bf3f68ec8b789900776ad61e408a9ec31a5a75e4109666f3e3&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
+
                                                                             </picture>
                                                                         </div>
                                                                     </div>
@@ -1468,19 +1475,18 @@ const Content = () => {
                                                         </a></li>
                                                         <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                                  data-testid="web-core-stacked-card"
-                                                                                                 href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=-2017355&amp;dest_type=city&amp;group_adults=2&amp;req_adults=2&amp;no_rooms=1&amp;group_children=null&amp;req_children=null"
+                                                                                                 href="#"
                                                                                                  className="fc63351294 b878730b30">
                                                             <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                                 <div data-testid="webcore-carousel-image"
                                                                      className="d57f52f47d"
                                                                      >
+                                                                    <img className="c3194e6c89 e5eb7fb6cb"
+                                                                         src={toAbsoluteUrl(`/assets/img/lekki.jpg`)}
+                                                                         role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb" />
                                                                     <div className="da627785d6">
                                                                         <div className="bcc2c1529b">
-                                                                            <picture className="e4e8d3238b bc5368ea83">
-                                                                                <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                     src="https://cf.bstatic.com/xdata/images/xphoto/300x240/140018397.jpg?k=bf96dea8bf6ff508ae0f20fd494a08ea9aa30c0827a4d9060a0e8434cf6764fb&amp;o="
-                                                                                     role="presentation" loading="lazy"/>
-                                                                            </picture>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1548,19 +1554,25 @@ const Content = () => {
                                                     aria-atomic="false">
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/be/la-roulotte-de-ciney.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/laroullet.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/216475546.webp?k=b3803ba3bc1f5c3b481ac390a752a7a3787c58a2b5c5e2081ecdc1c81fc11cd0&amp;o="
-                                                                            role="presentation" loading="lazy"/>
-                                                                        </picture>
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1589,19 +1601,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/pl/domki-wierszyki.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/domki.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/280947638.webp?k=9e8f72c1ff91b261cdda3dbe4e1a70bef455dd72c00119ff379c671a65ad565d&amp;o="
-                                                                            role="presentation" loading="lazy"/>
-                                                                        </picture>
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1630,18 +1648,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/pl/ranczo-w-dolinie-kiszkowo.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/ranczo.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/131500906.webp?k=b6f638eadb7c9632498a9e9a15440987a22489684b8825b0cb235bd3c79f07de&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -1671,18 +1696,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/de/dreischwesternherz.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/tinyhouse.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/187853972.webp?k=dd753431cf4b638642614dc060512d832d24f3249eef30b9a5f18601d2ac5635&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -1712,7 +1744,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/de/das-rote-haus.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1753,7 +1785,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/it/agriturismo-cabrele.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1794,7 +1826,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/de/mini-abernachten-im-gurkenfass.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1835,7 +1867,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/au/carinya-park.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1876,7 +1908,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/fi/gyttja-vastergards.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1917,7 +1949,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/fr/au-coeur-des-lacs.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1958,7 +1990,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/ca/la-sapinette-val-david.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -1999,7 +2031,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/de/mfc-erfurter-seen.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2040,7 +2072,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/es/finca-esperanza.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2081,7 +2113,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/ca/la-seigneurie-de-la-valcartier.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2122,7 +2154,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/hotel/no/lofthus-camping.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;ucfs=1&amp;arphpl=1"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2205,7 +2237,7 @@ const Content = () => {
                                                     <div className="">
                                                         <div className="bb0b3e18ca f6364fc8e1 d9b0185ac2"><a
                                                             target="_blank"
-                                                            href="https://www.booking.com/booking-home/index.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                            href="#"
                                                             className="fc63351294 a822bdf511 e3c025e003 f7db01295e c334e6f658 e1b7cfea84"><span
                                                             className="e57ffa4eb5">Discover homes</span></a></div>
                                                     </div>
@@ -2217,18 +2249,25 @@ const Content = () => {
                                                     aria-atomic="false">
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=260295&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=260295"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/aparthotel.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=35b70a7e8a17a71896996cd55d84f742cd15724c3aebaed0d9b5ba19c53c430b&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -2266,18 +2305,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=78365&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=78365"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/7seasons.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/87428762.webp?k=de5db8fe94cbfe08d3bf16d3c86def035fd73b43ee497cffe27b03363764e0e2&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -2315,18 +2361,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=785838&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=785838"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/oriente.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/29466558.webp?k=7f9cf4736f69b30c20fa7a751bb8711fa195bc9ff6092d5412d52daf6cada17f&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -2364,18 +2417,25 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=2132601&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=2132601"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+                                                                <img className="c3194e6c89 e5eb7fb6cb"
+                                                                     src={toAbsoluteUrl(`/assets/img/numa.webp`)}
+                                                                     role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
+                                                                    display:"block",
+                                                                    width: "100%",
+                                                                    height: "100%",
+                                                                    objectFit:"cover",
+                                                                    maxWidth: "100%",
+                                                                    maxHeight: "100%",
+                                                                }} />
                                                                 <div className="da627785d6">
                                                                     <div className="bcc2c1529b">
-                                                                        <picture className="e4e8d3238b bc5368ea83"><img
-                                                                            className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/352170812.webp?k=4ff5e29f3ad72c2c9f7170f60a043f01a158f26b38c55e9676439c18f3804179&amp;o="
-                                                                            role="presentation" loading="lazy"/>
+                                                                        <picture className="e4e8d3238b bc5368ea83">
                                                                         </picture>
                                                                     </div>
                                                                 </div>
@@ -2413,7 +2473,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=2142157&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=2142157"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2462,7 +2522,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=381352&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=381352"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2511,7 +2571,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=1129506&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=1129506"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2560,7 +2620,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=329844&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=329844"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2609,7 +2669,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=2031755&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=2031755"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2658,7 +2718,7 @@ const Content = () => {
                                                     </a></li>
                                                     <li className="d5fc932504 ebb6d69bfc"><a target="_blank"
                                                                                              data-testid="web-core-stacked-card"
-                                                                                             href="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;dest_id=2345541&amp;dest_type=hotel&amp;nflt=ht_id%3D201%3Bht_id%3D213%3Bht_id%3D219%3Bht_id%3D220%3Bht_id%3D228%3Bht_id%3D229%3Bht_id%3D230%3Bht_id%3D232%3Bht_id%3D208%3Bht_id%3D209%3Bht_id%3D210%3Bht_id%3D212%3Bht_id%3D214%3Bht_id%3D215%3Bht_id%3D216%3Bht_id%3D222%3Bht_id%3D223%3Bht_id%3D224%3Bht_id%3D227&amp;highlighted_hotels=2345541"
+                                                                                             href="#"
                                                                                              className="fc63351294 b878730b30">
                                                         <div className="a1b3f50dcd da949bc143 f7c6687c3d">
                                                             <div data-testid="webcore-carousel-image"
@@ -2736,7 +2796,7 @@ const Content = () => {
                                 <h2 className="bui-f-font-display_two bui-spacer--large d-index__header-section travel_articles_header__section">
                                     Get inspiration for your next trip
                                     <a className="bui-link bui-link--primary travel_articles__link"
-                                       href="https://www.booking.com/articles.html">More</a>
+                                       href="#">More</a>
                                 </h2>
                                 <div role="region" className="bui-carousel bui-carousel--large bui-u-bleed@small"
                                      data-bui-component="Carousel">
@@ -2746,7 +2806,7 @@ const Content = () => {
                                             data-et-click="customGoal:cCHObONdPbABJRXTcXCEFRURURHe:1" data-index="0">
                                             <a aria-labelledby="travel_articles_title_1"
                                                aria-describedby="travel_articles_desc_1"
-                                               href="https://www.booking.com/articles/best-pride-parades-america.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBuACAQ&amp;amp;force_lang=en-gb&amp;amp;from_articles_widget=1"
+                                               href="#"
                                                className="travel_articles  ">
                                                 <div className="js-lazy-image travel_articles_img"
                                                      style={{
@@ -2768,7 +2828,7 @@ const Content = () => {
                                             data-bui-ref="carousel-item"
                                             data-et-click="customGoal:cCHObONdPbABJRXTcXCEFRURURHe:1" data-index="1">
                                             <a className="bui-card bui-card--media bui-card--transparent"
-                                               href="https://www.booking.com/articles/europe-scenic-train-journeys.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBuACAQ&amp;amp;force_lang=en-gb&amp;amp;from_articles_widget=1">
+                                               href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
                                                          src="https://cf.bstatic.com/xdata/images/xphoto/540x405/225084278.webp?k=ffc3291f7c36f8f0c8d245e83a22350ca05b8a7f94bf1f51447a02787b42d699&amp;o="
@@ -2786,7 +2846,7 @@ const Content = () => {
                                             data-bui-ref="carousel-item"
                                             data-et-click="customGoal:cCHObONdPbABJRXTcXCEFRURURHe:1" data-index="2">
                                             <a className="bui-card bui-card--media bui-card--transparent"
-                                               href="https://www.booking.com/articles/sabbaticals-asia.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBuACAQ&amp;amp;from_articles_widget=1&amp;amp;force_lang=en-gb">
+                                               href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
                                                          src="https://cf.bstatic.com/xdata/images/xphoto/540x405/223110036.webp?k=dee0537605f9e2377deca151eb89be76ef24e35f4d91ab7eb397625af8cb6cec&amp;o="
@@ -2804,7 +2864,7 @@ const Content = () => {
                                             data-bui-ref="carousel-item"
                                             data-et-click="customGoal:cCHObONdPbABJRXTcXCEFRURURHe:1" data-index="3">
                                             <a className="bui-card bui-card--media bui-card--transparent"
-                                               href="https://www.booking.com/articles/music-festivals-south-korea.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBuACAQ&amp;amp;force_lang=en-gb&amp;amp;from_articles_widget=1">
+                                               href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
                                                          src="https://cf.bstatic.com/xdata/images/xphoto/720x405/223600156.webp?k=dd6dcf8fc8d528ea747cb3f0fbb5da8b2832e7548dcc25497cd90cc7318f058e&amp;o="
@@ -2822,7 +2882,7 @@ const Content = () => {
                                             data-bui-ref="carousel-item"
                                             data-et-click="customGoal:cCHObONdPbABJRXTcXCEFRURURHe:1" data-index="4">
                                             <a className="bui-card bui-card--media bui-card--transparent"
-                                               href="https://www.booking.com/articles/scenic-homes-northern-italy.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBuACAQ&amp;amp;force_lang=en-gb&amp;amp;from_articles_widget=1">
+                                               href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
                                                          src="https://cf.bstatic.com/xdata/images/xphoto/540x405/219730590.webp?k=10a70a5982bc3bc2661b2d8ac142f3320bb52acedd32130504c192975a8d9b47&amp;o="
@@ -2891,10 +2951,10 @@ const Content = () => {
                                                 </div>
                                             </div>
                                             <div className="a1b3f50dcd be36d14cea b2fe1a41c3 f99e477b40"><a
-                                                href="https://www.booking.com/index.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;login_redirect=https%3A%2F%2Fwww.booking.com%2Findex.en-gb.html%3Flabel%3Dgen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ%26sid%3D634bd0a5312f162966862137b218ae8e%26keep_landing%3D1%26sb_price_type%3Dtotal%26"
+                                                href="#"
                                                 className="fc63351294 a822bdf511 e2b4ffd73d f7db01295e c334e6f658 a9a04704ee"><span
                                                 className="e57ffa4eb5">Sign in</span></a><a
-                                                href="https://www.booking.com/index.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142&amp;login_redirect=https%3A%2F%2Fwww.booking.com%2Findex.en-gb.html%3Flabel%3Dgen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ%26sid%3D634bd0a5312f162966862137b218ae8e%26keep_landing%3D1%26sb_price_type%3Dtotal%26"
+                                                href="#"
                                                 className="fc63351294 a822bdf511 e3c025e003 f7db01295e c334e6f658 e1b7cfea84"><span
                                                 className="e57ffa4eb5">Register</span></a></div>
                                         </div>
@@ -2908,7 +2968,7 @@ const Content = () => {
                                         <div data-testid="wcu_bh_banner-desktop"
                                              className="a826ba81c4 fa2f36ad22 afd256fc79 d08f526e0d ed11e24d01 ef9845d4b3 bc4e2c467a"
                                              ><a target="_isblank"
-                                                                               href="https://www.booking.com/booking-home/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaKcBiAEBmAEJuAEXyAEM2AEB6AEBiAIBqAIDuAKG2pekBsACAdICJGU2MjlhOWY1LTE4ZTAtNDgxZS1iN2QyLWZjODVjYWRhNGVmY9gCBeACAQ&amp;sid=634bd0a5312f162966862137b218ae8e&amp;aid=304142"
+                                                                               href="#"
                                                                                className="fc63351294 b8e920e088">
                                             <div className="d39c27f89b"></div>
                                             <div className="d875fc0c4c">
