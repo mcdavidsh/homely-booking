@@ -500,7 +500,7 @@ const Content = () => {
                                                                 <div className="e1f827110f">Abuja</div>
                                                                 <picture className="e4e8d3238b fb913c0ee7"
                                                                          >  <img className="c3194e6c89 e5eb7fb6cb"
-                                                                                 src={toAbsoluteUrl(`../../public/assets/img/abuja.jpg`)}
+                                                                                 src={toAbsoluteUrl(`/assets/img/abuja.jpg`)}
                                                                                  role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"/></picture>
                                                             </div>
                                                         </div>
@@ -1568,8 +1568,9 @@ const Content = () => {
                                                             <div data-testid="webcore-carousel-image"
                                                                  className="d57f52f47d"
                                                                  >
+
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/laroullet.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/laroullet.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -1616,7 +1617,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/domki.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/domki.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -1663,7 +1664,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/ranczo.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/ranczo.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -1711,7 +1712,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/tinyhouse.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/tinyhouse.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -1762,7 +1763,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/178421496.webp?k=94836d8c61053e484c5ef0110211d6eacf89d8e58f8dfa3e58d14833287cc3a1&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/178421496.png?k=94836d8c61053e484c5ef0110211d6eacf89d8e58f8dfa3e58d14833287cc3a1&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -1803,7 +1804,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/126764303.webp?k=46a8a949ef420510834df06d0d88e293fbaae80cd1e17883cb78c1bba3eb0366&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/126764303.png?k=46a8a949ef420510834df06d0d88e293fbaae80cd1e17883cb78c1bba3eb0366&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -1844,7 +1845,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/356249609.webp?k=faba3b81c4ff82b74bc9cb2b8a42215e5551442e577539e1bc7de25edf6039fd&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/356249609.png?k=faba3b81c4ff82b74bc9cb2b8a42215e5551442e577539e1bc7de25edf6039fd&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -1885,7 +1886,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/154543781.webp?k=847c6d1ffe92003d2d7c9cf7043c6acda1c550e6f0c7c981370a6303f12a10cf&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/154543781.png?k=847c6d1ffe92003d2d7c9cf7043c6acda1c550e6f0c7c981370a6303f12a10cf&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -1926,7 +1927,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/255854447.webp?k=f9c9d47f18b3156fdcc5596749d137f35e3cf4962a8d3d37d69be0066ec9bfc3&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/255854447.png?k=f9c9d47f18b3156fdcc5596749d137f35e3cf4962a8d3d37d69be0066ec9bfc3&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -1967,7 +1968,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/349564463.webp?k=8d37c0a0667cb1dc873ffa6defbe07c5cbb421bbb1ed9645dc4c1f44f00affe8&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/349564463.png?k=8d37c0a0667cb1dc873ffa6defbe07c5cbb421bbb1ed9645dc4c1f44f00affe8&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2008,7 +2009,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/105762573.webp?k=2d60f1bc92863378df6d230f19d726197363e101ca22090bf88810eb89dea86b&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/105762573.png?k=2d60f1bc92863378df6d230f19d726197363e101ca22090bf88810eb89dea86b&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2049,7 +2050,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/101174831.webp?k=35631b861f880bd876d85402d34b43f272c9032780bcc9008b3f0f70b6c2a56d&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/101174831.png?k=35631b861f880bd876d85402d34b43f272c9032780bcc9008b3f0f70b6c2a56d&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2090,7 +2091,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/74720084.webp?k=9dd023ce21d918f11ebc2a8c36fa18ebdd56fc4afe9554bf316cfdee6644af06&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/74720084.png?k=9dd023ce21d918f11ebc2a8c36fa18ebdd56fc4afe9554bf316cfdee6644af06&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2131,7 +2132,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/106548982.webp?k=6464bb1807bbc9f4f9c408328c8df98bdfb5a885f7fc51712fcefc417b8472f7&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/106548982.png?k=6464bb1807bbc9f4f9c408328c8df98bdfb5a885f7fc51712fcefc417b8472f7&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2172,7 +2173,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/90168125.webp?k=f290bb1bc7b7b41c199a7c01912c825b9df85d39db91d1461958e2cd5980f956&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/90168125.png?k=f290bb1bc7b7b41c199a7c01912c825b9df85d39db91d1461958e2cd5980f956&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2264,7 +2265,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/aparthotel.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/aparthotel.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -2320,7 +2321,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/7seasons.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/7seasons.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -2376,7 +2377,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/oriente.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/oriente.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -2432,7 +2433,7 @@ const Content = () => {
                                                                  className="d57f52f47d"
                                                                  >
                                                                 <img className="c3194e6c89 e5eb7fb6cb"
-                                                                     src={toAbsoluteUrl(`/assets/img/numa.webp`)}
+                                                                     src={toAbsoluteUrl(`/assets/img/numa.png`)}
                                                                      role="presentation" loading="lazy" alt="c3194e6c89 e5eb7fb6cb"style={{
                                                                     display:"block",
                                                                     width: "100%",
@@ -2491,7 +2492,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/87375132.webp?k=a3eff4ea2475f3a4de01f017463acd719bddada5e63f87f6c0952f8590498865&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/87375132.png?k=a3eff4ea2475f3a4de01f017463acd719bddada5e63f87f6c0952f8590498865&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2540,7 +2541,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/421852968.webp?k=b4f13731abc220a62dc44e8d52f2b5a843257fabeca40035d8b76d80ee523cf0&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/421852968.png?k=b4f13731abc220a62dc44e8d52f2b5a843257fabeca40035d8b76d80ee523cf0&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2589,7 +2590,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/420377357.webp?k=29a0e9879ac8361539c3dae41f047d383e6fa6917f8f47cb50dad001ada0eae6&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/420377357.png?k=29a0e9879ac8361539c3dae41f047d383e6fa6917f8f47cb50dad001ada0eae6&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2638,7 +2639,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/421853145.webp?k=43e79c5ea521b6bca76fa480afbd942fde50debd0d3a755c4ef26cc24f0c434b&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/421853145.png?k=43e79c5ea521b6bca76fa480afbd942fde50debd0d3a755c4ef26cc24f0c434b&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2687,7 +2688,7 @@ const Content = () => {
                                                                     <div className="bcc2c1529b">
                                                                         <picture className="e4e8d3238b bc5368ea83"><img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/270323047.webp?k=bade09d7901e1282156f13c3b39e3a8b9c8d45170b2f1184565d3fc304c42d70&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/270323047.png?k=bade09d7901e1282156f13c3b39e3a8b9c8d45170b2f1184565d3fc304c42d70&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2737,7 +2738,7 @@ const Content = () => {
                                                                         <picture className="e4e8d3238b bc5368ea83">
                                                                             <img
                                                                             className="c3194e6c89 e5eb7fb6cb"
-                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/117127036.webp?k=7f59e52c89ee2a4b3910118542f585c4cce52fc46627413eb08b760076b9f72d&amp;o="
+                                                                            src="https://cf.bstatic.com/xdata/images/hotel/square600/117127036.png?k=7f59e52c89ee2a4b3910118542f585c4cce52fc46627413eb08b760076b9f72d&amp;o="
                                                                             role="presentation" loading="lazy"/>
                                                                         </picture>
                                                                     </div>
@@ -2818,7 +2819,7 @@ const Content = () => {
                                                className="travel_articles  ">
                                                 <div className="js-lazy-image travel_articles_img"
                                                      style={{
-                                                         backgroundImage:"url(https://cf.bstatic.com/xdata/images/xphoto/540x405/227647914.webp?k=d811b9653362db869b365ab07a94c450374a0dad62066989ef31941470d15134)"
+                                                         backgroundImage:"url(https://cf.bstatic.com/xdata/images/xphoto/540x405/227647914.png?k=d811b9653362db869b365ab07a94c450374a0dad62066989ef31941470d15134)"
                                                 }}
                                                 ></div>
                                                 <div className="travel_articles__overlay"></div>
@@ -2839,7 +2840,7 @@ const Content = () => {
                                                href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
-                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/225084278.webp?k=ffc3291f7c36f8f0c8d245e83a22350ca05b8a7f94bf1f51447a02787b42d699&amp;o="
+                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/225084278.png?k=ffc3291f7c36f8f0c8d245e83a22350ca05b8a7f94bf1f51447a02787b42d699&amp;o="
                                                          alt="Europe’s finest and most scenic train journeys"/>
                                                 </div>
                                                 <div className="bui-card__content">
@@ -2857,7 +2858,7 @@ const Content = () => {
                                                href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
-                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/223110036.webp?k=dee0537605f9e2377deca151eb89be76ef24e35f4d91ab7eb397625af8cb6cec&amp;o="
+                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/223110036.png?k=dee0537605f9e2377deca151eb89be76ef24e35f4d91ab7eb397625af8cb6cec&amp;o="
                                                          alt="6 inspiring sabbaticals in the Asia-Pacific region"/>
                                                 </div>
                                                 <div className="bui-card__content">
@@ -2875,7 +2876,7 @@ const Content = () => {
                                                href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
-                                                         src="https://cf.bstatic.com/xdata/images/xphoto/720x405/223600156.webp?k=dd6dcf8fc8d528ea747cb3f0fbb5da8b2832e7548dcc25497cd90cc7318f058e&amp;o="
+                                                         src="https://cf.bstatic.com/xdata/images/xphoto/720x405/223600156.png?k=dd6dcf8fc8d528ea747cb3f0fbb5da8b2832e7548dcc25497cd90cc7318f058e&amp;o="
                                                          alt="6 best summer music festivals in South Korea"/>
                                                 </div>
                                                 <div className="bui-card__content">
@@ -2893,7 +2894,7 @@ const Content = () => {
                                                href="#">
                                                 <div className="bui-card__image-container travel_articles_img_small">
                                                     <img className="bui-card__image"
-                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/219730590.webp?k=10a70a5982bc3bc2661b2d8ac142f3320bb52acedd32130504c192975a8d9b47&amp;o="
+                                                         src="https://cf.bstatic.com/xdata/images/xphoto/540x405/219730590.png?k=10a70a5982bc3bc2661b2d8ac142f3320bb52acedd32130504c192975a8d9b47&amp;o="
                                                          alt="Northern Italian holiday homes with amazing views"/>
                                                 </div>
                                                 <div className="bui-card__content">
